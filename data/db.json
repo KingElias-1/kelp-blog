@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "Google meets is now in duo, but duo is not in meets",
+            "body": "Google's messaging apps' merge starts today",
+            "author": "The Verge",
+            "id": 1
+        },
+        {
+            "title": "Welcome Party!",
+            "body": "Lorem Ipsum...",
+            "author": "Yoshi",
+            "id": 2
+        },
+        {
+            "title": "Web dev top tips",
+            "body": "Lorem Ipsum...",
+            "author": "Mario",
+            "id": 3
+        }
+    ]
+}
