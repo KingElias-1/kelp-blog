@@ -23,7 +23,7 @@ const useFetch = (url) => {
             .catch(err =>{
                 setError(err.message);
             });
-        }, 1000);
+        }, 700);
     }, [url]);
 
     return { data, isPending, error};
