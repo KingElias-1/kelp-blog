@@ -9,7 +9,7 @@ const Home = () => {
     return ( 
         <div className="home">
             {error && <div className="error"><img src={err} alt="error"/>{error}</div>}
-            {isPending && !error && <div className="loading">loading...</div>}
+            {isPending && <div className="loading">loading...</div>}
             {blogs && <BlogList blogs={blogs} title = "All Blogs"/>}
             {/*sending blogs and title as props to the blogslist component */}
         </div>
