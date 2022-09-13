@@ -1,21 +1,21 @@
 {
   "blogs": [
     {
-      "title": "Google meets is now in duo, but duo is not in meets",
-      "body": "Google's messaging apps' merge starts today",
-      "author": "The Verge",
+      "title": "Everything You Need to Know About Headphone Drivers",
+      "body": "No doubt about it, headphones are awesome. But if youre searching for high-quality headphones, you may feel like youre looking for a needle in a haystack. There are too many designs available on the market. Looking at the specifications may not make things any easier. In this post, we are shedding more light on the Bluetooth headphone driver unit —the component responsible for creating sound—and discussing how features such as the Bluetooth headphone driver size affect performance. Lets get rolling.",
+      "author": "Femi",
       "id": 1
     },
     {
-      "title": "Welcome Party!",
+      "title": "What is API - Definition, Specifications, Types, Documentation",
       "body": "Lorem Ipsum...",
-      "author": "Yoshi",
+      "author": "Elias",
       "id": 2
     },
     {
-      "title": "Web dev top tips",
+      "title": "Chrome Developer tools",
       "body": "Lorem Ipsum...",
-      "author": "Mario",
+      "author": "Oyewole",
       "id": 3
     }
   ]
