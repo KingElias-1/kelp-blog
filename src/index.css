@@ -59,7 +59,7 @@ h1{
   font-size: 1.2rem;
 }.links a:hover{
   color: blanchedalmond;
-  scale: 1.1;
+  transform: scale(1.1);
 }
 
 .home{
