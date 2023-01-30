@@ -239,9 +239,9 @@ h1{
     font-weight: 600;
     font-size: 1.1rem;
   }.navbar .links{
-    width: 40%;
+    width: 50%;
   }
   .navbar .links a{
-    font-size: 1.9rem;
+    font-size: .8rem;
   }
 }
